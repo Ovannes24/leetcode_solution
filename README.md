@@ -15,3 +15,4 @@
  &#9989;    | 14  |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) |
 &#9989;    | 15  |[3Sum](https://leetcode.com/problems/3sum) |
 &#9989;    | 16  |[3Sum Closest](https://leetcode.com/problems/3sum-closest) |
+&#9989;    | 17  |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
