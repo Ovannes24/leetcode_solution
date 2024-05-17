@@ -25,3 +25,5 @@
  &#9989;    | 27  |[Remove Element](https://leetcode.com/problems/remove-element) |
  &#9989;    | 28  |[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) |
  &#10060;    | 29  |[Divide Two Integers](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) |
+ &#10060;    | 31  |[Next Permutation](https://leetcode.com/problems/next-permutation/) |
+ &#9989;    | 217  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |
